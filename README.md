@@ -1,4 +1,4 @@
-# Citar
+# Quotes
 #### This is a website where people can express their ideas through quotes, Current version :29 January 2019
 #### By **YVETTE UMUBYEYI**
 ## Description
@@ -9,7 +9,8 @@ A user can upvote or downvote a quote
 * Connect to the internet
 * Open your browser
 * In your browser adress bar type the following
-* http://yvetteveve.github.io/Citar
+* http://yvetteveve.github.io/Quote
+
 * And there you have it
 
 
